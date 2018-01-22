@@ -201,7 +201,7 @@
                 <!--begin fourcol -->
                 <div class="fourcol home_services">
                     <span class="circle_icons">
-                        <img src="assets/images/solutions/puzzle-2.png">
+                        <img src="assets/images/solutions/puzzle.png">
                     </span>
                     <h4>Open Source</h4>
                     <p>No Licensing and Vendor Locking.</p>
