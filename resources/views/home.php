@@ -28,7 +28,7 @@
                 </ul>
                 <!--end social icons -->
 
-                <ul class="nav_bar">
+                <ul class="nav_bar d-none">
                     <li>
                         <a href="home">
                             Home
