@@ -1090,7 +1090,7 @@ a#logo img {
     display: inline-block;
     text-align: center;
     padding: 0;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 18px;
     font-weight: 400;
 }
@@ -1101,7 +1101,7 @@ a#logo img {
 
 #nav li.selected a,
 #nav li a:hover {
-    color: #39bb8a;
+    color: #5d8b7a;
 }
 
 
@@ -1752,9 +1752,9 @@ input.contact-submit {
 }
 
 input.contact-submit:hover {
-    color: #fff;
-    background-color: #9d0a9d;
-    border: 1px solid #9d0a9d;
+    color: #39bb8a;
+    background-color: transparent;
+    border: 1px solid #39bb8a;
     transition: all .50s ease-in-out;
     -moz-transition: all .50s ease-in-out;
     -webkit-transition: all .50s ease-in-out;
