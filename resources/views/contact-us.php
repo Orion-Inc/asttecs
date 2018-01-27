@@ -80,11 +80,11 @@
                 <!-- end map -->
                 <p class="contact_info">
                     <i class="icon icon-map-pin-streamline"></i>
-                    astTECS, Electrical and Infotech Solution Limited<br> 
+                    Electrical and Infotech Solutions Limited<br> 
                 </p>
                 <p class="contact_info">
                     <i class="icon icon-envellope-mail-streamline"></i>
-                    P O BOX AN 5433, Madina, Ghana, West Africa.
+                    P. O. Box AN 5433 Accra North Ghana West Africa
                 </p>
                 <p class="contact_info">
                     <i class="icon icon-iphone-streamline"></i> 

@@ -5,7 +5,7 @@
     <div id="header" class="clearfix">
     
         <!--begin logo -->            
-        <a href="home" id="logo"><img src="assets/images/logo-ghana.png" alt="logo"></a>
+        <a href="home" id="logo"><img src="assets/images/logo-eis.png" alt="logo"></a>
         <!--end logo -->
             
         <!--begin nav -->

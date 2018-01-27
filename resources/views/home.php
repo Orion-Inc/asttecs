@@ -59,7 +59,7 @@
                 <div class="sevencol">
                     <h2 class="home_title">Heading 1,<br>Heading 2.</h2>
                     <h3 class="home_subtitle">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum quaerat, ex nobis obcaecati numquam et excepturi,<br> odio praesentium autem consequatur magnam perferendis voluptates. Nihil explicabo animi porro placeat qui dolorem?</h3>
-                    <a href="about-us" class="button_purple">About Us</a>
+                    <a href="about-us" class="button_green">About Us</a>
                     <a href="products" class="button_transparent">Our Products</a>
                 </div>
                 <!--end sevencol -->        

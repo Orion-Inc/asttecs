@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">  
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />    
-    <title>astTecs - Ghana</title>
+    <title>EIS</title>
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="assets/images/ico/favicon.png">
     <meta name="description" content="">
