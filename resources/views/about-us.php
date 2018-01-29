@@ -35,7 +35,7 @@
 
                 <!--begin sixcol -->
                 <div class="sixcol last">
-                    <h3>Vivamus malesuada ipsum ets nibh eveniet.</h3>
+                    <h3>Vivamus malesuada ipsum ets nibh eveniet</h3>
                     <p>Lacus erat tristique interdum at vitae augue. Morbi erat tellus, dapibus vitae euismod. Quis consequatur quia voluptas sit aspernatur aut odit aut fugit justo sed mauris vel, lobortis tempor lorem ac lacus iaculis quia voluptas
                         sit aspernatur aut odit aut fugit justo.</p>
                     <p>Pellentesque vitae metus suscipit purus pharetra lacinia. In ac accumsan tellus. Praesent justo lorem, tincidunt sed mauris vel, lobortis tempor lorem. Pellentesque ac lacus iaculis erat tristique interdum at vitae augue. Morbi

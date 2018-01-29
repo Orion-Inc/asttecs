@@ -14,7 +14,7 @@
           $("#header_wrapper").sticky({ topSpacing: 0 });
         });
     </script>
-    <!-- end jquery.sticky script-->
+    <!-- end jquery.sticky script--> 
   
     <!-- begin scrollTo script-->
     <script src="assets/js/jquery.scrollTo-min.js"></script>
