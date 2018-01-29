@@ -27,7 +27,7 @@
                 <!--end footer_social -->
                 <!--begin copyright -->
                 <div class="copyright ">
-                    <p>Copyright &copy; <?php echo date('Y')?> *astTECS. Powered by 
+                    <p>Copyright &copy; <?php echo date('Y')?> Electrical and Infotech Solutions. Powered by 
                         <a href="https://www.orionic.tech/" target="_blank" alt="O.Rion Ltd.">
                             <img src="assets/images/logo-dark.png">
                         </a>

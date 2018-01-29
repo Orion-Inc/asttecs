@@ -3,7 +3,5 @@
 <script src="assets/js/bootstrap.js"></script>
 <?php
     $page = explode('/', $_GET['url'])[0];
-
-
     Route::asset($page, $function = new App());
 ?>

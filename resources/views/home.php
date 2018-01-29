@@ -28,7 +28,7 @@
                 </ul>
                 <!--end social icons -->
 
-                <ul class="nav_bar">
+                <ul class="nav_bar d-none">
                     <li>
                         <a href="home">
                             Home
@@ -59,7 +59,7 @@
                 <div class="sevencol">
                     <h2 class="home_title">Heading 1,<br>Heading 2.</h2>
                     <h3 class="home_subtitle">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum quaerat, ex nobis obcaecati numquam et excepturi,<br> odio praesentium autem consequatur magnam perferendis voluptates. Nihil explicabo animi porro placeat qui dolorem?</h3>
-                    <a href="about-us" class="button_purple">About Us</a>
+                    <a href="about-us" class="button_green">About Us</a>
                     <a href="products" class="button_transparent">Our Products</a>
                 </div>
                 <!--end sevencol -->        
@@ -79,20 +79,20 @@
             <div class="row">
                 <!--begin twelvecol -->
                 <div class="twelvecol align_center">    
-                    <h2 class="title">Why choose *astTECS?</h2>
+                    <h2 class="title">Why choose EIS?</h2>
                     <div class="separator_wrapper">
                         <div class="separator_first_circle">
                             <div class="separator_second_circle">
                             </div>
                         </div>
                     </div>
-                    <h3 class="subtitle">*astTECS is today geared to provide cost effective telephony solutions.<br>We a telecom centric enterprise.</h3>
+                    <h3 class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. <br>Temporibus officia quae ad in rerum deleniti.</h3>
                 </div>
                 <!--end twelvecol -->
                 <!--begin sixcol -->
                 <div class="sixcol">
                     <h3>About Our Company</h3>
-                    <p>Our asterisk solutions are feature rich, extremely versatile, flexible, customizable & scalable. We strive to enable Asterisk,the world’s telephony engine, power your business. *astTECS aims to be a keystone in the asterisk ecosystem. Through co-operation & collective contribution, we aim to develop & popularise Asterisk, with the ultimate aim to provide affordable communications solutions. Today, the means of communications need to be effective, constantly evolving and most important of all cost effective. We make your move to open-source IP telephony a reality.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, iure magni. Consequuntur ut dolores est nam, labore officia mollitia error officiis accusantium, vel a at repellendus deserunt sed quam! Earum.</p>
                         
                     <!--begin fourcol -->
                     <div class="fourcol">
@@ -201,7 +201,7 @@
                 <!--begin fourcol -->
                 <div class="fourcol home_services">
                     <span class="circle_icons">
-                        <img src="assets/images/solutions/puzzle-2.png">
+                        <img src="assets/images/solutions/puzzle.png">
                     </span>
                     <h4>Open Source</h4>
                     <p>No Licensing and Vendor Locking.</p>
